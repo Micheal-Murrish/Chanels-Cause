@@ -1,70 +1,79 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+	margin: 0;
+	padding: 0;
 }
 
 
 /*..........................head nav bar */
-.chanel-logo{
-    text-align: center;
+
+.chanel-logo {
+	text-align: center;
 }
 
+nav {
+	text-align: right;
+	background-color: lightgrey;
+	padding: 10px;
+}
 
-nav{
-    text-align: right;
-    background-color: lightgrey;
+.nav-header li {
+	display: inline;
+	text-align: center;
 }
-.nav-header li{
-    display: inline;
-    text-align: center;
-}
+
 .nav-header li a {
-    color: #ca041a;
-    font-size: 25px;
-    padding: 5%;
-    margin: 5px;
-    text-decoration: none;
-    
+	color: #ca041a;
+	font-size: 25px;
+	padding: 5%;
+	margin: 5px;
+	text-decoration: none;
 }
 
-#chanel-logo{
-    padding-left: 5%;
-    padding-bottom: 15px;
-
+#chanel-logo {
+	padding-left: 5%;
+	padding-bottom: 15px;
 }
+
 .nav-header li a:hover {
-    color: black;
+	color: black;
 }
-#navbar-text{
-    width: 100%;
-    text-align: center;
-    display: inline-block;
+
+#navbar-text {
+	width: 100%;
+	text-align: center;
+	display: inline-block;
 }
 
 
 /* .................................footer */
 
-
-.social-media{
-    text-align: center;
+.social-media {
+	text-align: center;
 }
+
 .social-media li {
-    display: inline;
+	display: inline;
 }
-.social-media i {
-    color: #ca041a;
-    font-size: 25px;
-    padding: 5px 10%;
-    margin: 1%;
 
+.social-media i {
+	color: #ca041a;
+	font-size: 25px;
+	padding: 10px 10%;
+	margin: 10px;
 }
-.social-media i:hover{
-    color: black;
+
+.social-media i:hover {
+	color: black;
 }
-#stuck-footer{
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    background-color: lightgrey;
-    width: 100%;
+
+#stuck-footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	background-color: lightgrey;
+	width: 100%;
 }
+
+
+
+
