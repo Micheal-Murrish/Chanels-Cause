@@ -12,7 +12,7 @@
 
 nav {
 	text-align: right;
-	background-color: lightgrey;
+	background-color: cyan;
 	padding: 10px;
 }
 
@@ -70,7 +70,7 @@ nav {
 	position: fixed;
 	bottom: 0;
 	left: 0;
-	background-color: lightgrey;
+	background-color: cyan;
 	width: 100%;
 }
 
