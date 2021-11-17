@@ -8,6 +8,7 @@
 
 .chanel-logo {
 	overflow: hidden;
+	text-align: center;
 }
 
 img{
@@ -33,6 +34,7 @@ nav {
 	padding: 5%;
 	margin: 5px;
 	text-decoration: none;
+	font-weight: bold;
 }
 
 #chanel-logo {
@@ -56,16 +58,16 @@ nav {
 	
 	animation-name: hero-zoom;
     animation-duration: 5s;
-    animation-fill-mode: forwards;
+    animation-fill-mode: backwards;
 }
 
 
 @keyframes hero-zoom {
     from{
-        transform: scale(1);
+        transform: scale(1.1);
     }
     to{
-        transform: scale(1.1);
+        transform: scale(1);
     }
 }
 
