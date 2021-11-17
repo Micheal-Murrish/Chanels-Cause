@@ -17,7 +17,6 @@ img{
 	display: block;
 	width: 100%;
 	height: 500px;
-	padding-top: 10px;
 	margin: auto;
 }
 
@@ -42,8 +41,7 @@ nav {
 }
 
 #chanel-logo {
-	padding-left: 5%;
-	padding-bottom: 15px;
+	position: relative;
 }
 
 .nav-header li a:hover {
@@ -76,14 +74,12 @@ nav {
 }
 /* .................................What is chanels cause */
 .main-title{
-	background-color: #cccccc;
 	color: #ca041a;
 	font-size: 40px;
 	text-align: center;
 	padding: 20px;
 }
 .main-section{
-	background-color: #cccccc;
 	display: inline-block;
 }
 video{
@@ -103,7 +99,6 @@ video{
 }
 /* .................................WHAT WE DO! */
 .main-sub-section{
-	background-color: #cccccc;
 	text-align: center;
 	padding: 15px;
 }
