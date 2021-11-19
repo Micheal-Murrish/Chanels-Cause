@@ -104,6 +104,52 @@ footer{
 	color: #cccccc;
 }
 
+/* .................................contact form */
+ .contact-form{
+	background-color: #cccccc;
+	border-radius: 20px;
+	padding: 2rem;
+	text-align: center;
+	margin-top: 15px;
 
+}
+.contact-form h2 {
+	color: #ca041a;
+	font-family: "Oxygen" sans-serif;
+	font-family: 600;
+	font-size: 3rem;
+}
+.contact-form label{
+	font-size: 2rem;
+	display: block;
+	position: relative;
+	
+}
+#fname{
+	width: 500px;
+	padding: 0.5rem;
+	border-radius: 15px;
+}
+#email{
+	width: 500px;
+	padding: 0.5rem;
+	border-radius: 15px;
 
-
+}
+#textarea{
+	width:500px;
+	padding: 0.5rem;
+	border-radius: 15px;
+	margin-top: 20px;
+}
+#form-button{
+	font-size: 3em;
+	border-radius: 15px;
+	background: #ca041a;
+	color: #fafafa;
+	margin-top: 5px;
+	border: 2px solid #fafafa;
+}
+#form-button:hover{
+	color: #cccccc;
+}
