@@ -12,10 +12,6 @@ img{
 	vertical-align: bottom;
 
 }
-.navbar-center{
-	padding: 0 5%;
-
-}
 
 nav {
 	background-color: #ca041a;
@@ -32,7 +28,7 @@ nav {
 .nav-header li a {
 	color: #fafafa;
 	font-size: 1.25rem;
-	padding: 6rem;
+	padding: 7rem;
 	text-decoration: none;
 	font-family: "Oxygen", sans-serif;
 }
@@ -61,47 +57,33 @@ nav {
         transform: scale(1.1);
     }
 }
-/* .................................What is chanels cause */
-.main-title{
-	color: #ca041a;
-	font-size: 40px;
+/* .................................Main section home*/
+
+.main-sec-home{
 	text-align: center;
-	padding: 20px;
-}
-.main-section{
-	display: inline-block;
-}
-video{
-	padding: 15px;
-	width: 40%;
-	float: left;
-	text-align: center;
-	overflow: hidden;
-}
-#right-text{
-	font-size: 30px;
-	padding: 15px;
-	width: 50%;
-	float: right;
-	text-align: left;
+	background-color: #cccccc;
+	border-radius: 20px;
 
 }
-/* .................................WHAT WE DO! */
-.main-sub-section{
-	text-align: center;
-	padding: 15px;
-}
-.main-sub-section h1 {
+
+.main-sec-home h1{
 	color: #ca041a;
-	font-size: 60px;
-	padding: 15px;
+	font-family: "Oxygen" sans-serif;
+	font-family: 600;
+	font-size: 5rem;
 }
+.main-sec-home p{
+	font-size: 2rem;
+}
+
 
 
 /* .................................footer */
 
-
-
+footer{
+	background-color: #ca041a;
+	border-radius: 20px;
+}
 
 .social-media {
 	text-align: center;
@@ -112,8 +94,8 @@ video{
 }
 
 .social-media i {
-	color: #ca041a;
-	font-size: 5vh;
+	color: #fafafa;
+	font-size: 2rem;
 	padding: 10px 10%;
 }
 
