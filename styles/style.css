@@ -100,12 +100,7 @@ video{
 
 /* .................................footer */
 
-footer {
-	background-color: #ca041a;
-}
-.footer-center{
-	padding: 0 5%;
-}
+
 
 
 .social-media {
@@ -117,10 +112,9 @@ footer {
 }
 
 .social-media i {
-	color: #fafafa;
-	font-size: 25px;
+	color: #ca041a;
+	font-size: 5vh;
 	padding: 10px 10%;
-	margin: 10px;
 }
 
 .social-media i:hover {
