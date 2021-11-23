@@ -63,7 +63,7 @@ nav {
 	text-align: center;
 	background-color: #cccccc;
 	border-radius: 20px;
-	margin-top: -3rem;
+	margin-bottom: -1rem;
 
 }
 
@@ -71,11 +71,31 @@ nav {
 	color: #ca041a;
 	font-family: "Oxygen" sans-serif;
 	font-family: 600;
-	font-size: 5rem;
+	font-size: 3rem;
 	padding-top: 2rem;
 	margin-bottom: 0;
 }
 .main-sec-home p{
+	font-size: 1.5rem;
+	padding: 0 5rem;
+	text-align: left;
+}
+
+.main-sec-video{
+	padding-bottom: 3REM;
+}
+
+.main-sec-video video{
+	border-radius: 20px;
+}
+
+.second-sec-home{
+	background-color: #cccccc;
+	margin-top: 1rem;
+	border-radius: 20px;
+
+}
+.second-sec-home p{
 	font-size: 2rem;
 	padding: 0 5rem;
 	text-align: left;
