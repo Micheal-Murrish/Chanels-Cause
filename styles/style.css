@@ -39,7 +39,7 @@ nav {
 }
 
 
-/* .................................hero image */
+/* .................................banner image */
 
 #banner-img{
 	
@@ -72,9 +72,13 @@ nav {
 	font-family: "Oxygen" sans-serif;
 	font-family: 600;
 	font-size: 5rem;
+	padding-top: 2rem;
+	margin-bottom: 0;
 }
 .main-sec-home p{
 	font-size: 2rem;
+	padding: 0 5rem;
+	text-align: left;
 }
 
 
