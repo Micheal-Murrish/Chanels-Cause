@@ -3,12 +3,11 @@
 /*..........................head nav bar */
 
 .chanel-logo {
-	overflow: hidden;
 	padding-left: 2rem;
+	overflow: hidden;
 }
 
 img{
-	object-fit: contain;
 	vertical-align: bottom;
 
 }
@@ -17,6 +16,7 @@ nav {
 	background-color: #ca041a;
 	padding: 1px;
 	border-radius: 20px;
+	margin-bottom: -1rem;
 }
 
 
@@ -28,7 +28,7 @@ nav {
 .nav-header li a {
 	color: #fafafa;
 	font-size: 1.25rem;
-	padding: 7rem;
+	padding: 0 7rem;
 	text-decoration: none;
 	font-family: "Oxygen", sans-serif;
 }
@@ -61,9 +61,8 @@ nav {
 
 .main-sec-home{
 	text-align: center;
-	background-color: #fcf4eb;
+	background-color: #e8dac7;
 	border-radius: 20px;
-	margin-bottom: -1rem;
 
 }
 
@@ -91,7 +90,7 @@ nav {
 }
 
 .second-sec-home{
-	background-color: #fcf4eb;
+	background-color: #e8dac7;
 	margin-top: 1rem;
 	border-radius: 20px;
 
@@ -131,7 +130,7 @@ footer{
 
 /* .................................contact form */
  .contact-form{
-	background-color: #fcf4eb;
+	background-color: #e8dac7;
 	border-radius: 20px;
 	padding: 2rem;
 	text-align: center;
