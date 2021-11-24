@@ -35,7 +35,7 @@ nav {
 
 
 .nav-header li a:hover {
-	color: #cccccc;
+	color: black;
 }
 
 
@@ -61,7 +61,7 @@ nav {
 
 .main-sec-home{
 	text-align: center;
-	background-color: #cccccc;
+	background-color: #fcf4eb;
 	border-radius: 20px;
 	margin-bottom: -1rem;
 
@@ -91,7 +91,7 @@ nav {
 }
 
 .second-sec-home{
-	background-color: #cccccc;
+	background-color: #fcf4eb;
 	margin-top: 1rem;
 	border-radius: 20px;
 
@@ -126,12 +126,12 @@ footer{
 }
 
 .social-media i:hover {
-	color: #cccccc;
+	color: black;
 }
 
 /* .................................contact form */
  .contact-form{
-	background-color: #cccccc;
+	background-color: #fcf4eb;
 	border-radius: 20px;
 	padding: 2rem;
 	text-align: center;
@@ -173,8 +173,8 @@ footer{
 	background: #ca041a;
 	color: #fafafa;
 	margin-top: 5px;
-	border: 2px solid #fafafa;
+	border: 2px solid black;
 }
 #form-button:hover{
-	color: #cccccc;
+	color: black;
 }
