@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
 
+
+
+body{
+	font-family: "Oxygen", sans-serif;
+}
 /*..........................head nav bar */
 
 .chanel-logo {
@@ -68,8 +74,8 @@ nav {
 
 .main-sec-home h1{
 	color: #ca041a;
-	font-family: "Oxygen", sans-serif;
-	font-size: 3rem;
+	font-family: "Dancing Script", sans-serif;
+	font-size: 5rem;
 	padding-top: 2rem;
 	margin-bottom: 0;
 }
@@ -138,9 +144,8 @@ footer{
 }
 .contact-form h2 {
 	color: #ca041a;
-	font-family: "Oxygen", sans-serif;
-	font-family: 600;
-	font-size: 3rem;
+	font-family: "Dancing Script", sans-serif;
+	font-size: 4rem;
 }
 .contact-form label{
 	font-size: 2rem;
