@@ -68,8 +68,7 @@ nav {
 
 .main-sec-home h1{
 	color: #ca041a;
-	font-family: "Oxygen" sans-serif;
-	font-family: 600;
+	font-family: "Oxygen", sans-serif;
 	font-size: 3rem;
 	padding-top: 2rem;
 	margin-bottom: 0;
@@ -134,12 +133,12 @@ footer{
 	border-radius: 20px;
 	padding: 2rem;
 	text-align: center;
-	margin-top: 15px;
+	margin-top: 2rem;
 
 }
 .contact-form h2 {
 	color: #ca041a;
-	font-family: "Oxygen" sans-serif;
+	font-family: "Oxygen", sans-serif;
 	font-family: 600;
 	font-size: 3rem;
 }
