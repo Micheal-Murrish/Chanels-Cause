@@ -75,6 +75,7 @@ nav {
 .main-sec-home h1{
 	color: #ca041a;
 	font-family: "Dancing Script", sans-serif;
+	font-weight: lighter;
 	font-size: 4rem;
 	padding-top: 2rem;
 	margin-bottom: 0;
@@ -104,6 +105,13 @@ nav {
 	font-size: 2rem;
 	padding: 0 5rem;
 	text-align: left;
+}
+.link-in-text{
+	color: #ca041a;
+	text-decoration: none;
+}
+#hfg-video-text{
+	font-size: 1rem;
 }
 
 
@@ -143,6 +151,7 @@ footer{
 .contact-form h2 {
 	color: #ca041a;
 	font-family: "Dancing Script", sans-serif;
+	font-weight: lighter;
 	font-size: 4rem;
 	padding-top: 2rem;
 }
