@@ -24,19 +24,22 @@ nav {
 	border-radius: 20px;
 	margin-bottom: -2rem;
 }
-
-
-.nav-header li {
-	display: inline-block;
-	text-align: center;
+.nav-header{
+	display: flex;
+	justify-content: space-between;
+	list-style-type: none;
+	margin: 0;
+	padding: 1rem 5rem;
 }
+
 
 .nav-header li a {
 	color: #fafafa;
 	font-size: 1.25rem;
-	padding: 0 7rem;
 	text-decoration: none;
 	font-family: "Oxygen", sans-serif;
+	letter-spacing: 1px;
+
 }
 
 
@@ -92,10 +95,6 @@ nav {
 
 }
 
-.main-sec-video{
-	padding-bottom: 3REM;
-}
-
 .main-sec-video video{
 	border-radius: 20px;
 }
@@ -127,22 +126,19 @@ footer{
 	background-color: #ca041a;
 	border-radius: 20px;
 }
-
-.social-media {
-	text-align: center;
+.footer-center{
+	display: flex;
+	justify-content: space-between;
+	list-style-type: none;
+	padding: 1rem 5rem;
 }
 
-.social-media li {
-	display: inline;
-}
-
-.social-media i {
+.footer-center i {
 	color: #fafafa;
 	font-size: 2rem;
-	padding: 10px 10%;
 }
 
-.social-media i:hover {
+.footer-center i:hover {
 	color: black;
 }
 
@@ -194,3 +190,5 @@ footer{
 #form-button:hover{
 	color: black;
 }
+/*........................................... media queries */
+
