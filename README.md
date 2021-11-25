@@ -15,8 +15,15 @@ The project goals are to create a website that can be used to:
 
 ### Fonts
 Fonts where used from google fonts. View There website [here](https://fonts.google.com/).
-* Font name = Oxygen (Designed by Vernon Adams) was used in the headers and nav bar.
-* Font name =
+* Font name = Oxygen (Designed by Vernon Adams) was used as the main texting style
+* Font name = Dancing Script was used in headers
+
+### Icons
+All icons came from Font Awsome. View there website [here](https://fontawesome.com/).
+* Facebook
+* Twitter
+* Instagram
+* Donate
 
 
 
