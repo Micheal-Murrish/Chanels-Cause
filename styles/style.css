@@ -195,23 +195,34 @@ footer{
 /*........................................... media queries */
 
 @media screen and (max-width: 1200px){
-	.main-sec-home h1{
-		color: #ca041a;
-		font-family: "Dancing Script", sans-serif;
-		font-weight: lighter;
-		font-size: 4rem;
-		padding-top: 2rem;
-		margin-bottom: 0;
-	}
 	.main-sec-home p{
-		font-size: 1.5rem;
 		padding: 1rem 2rem;
-		text-align: center;
 	
 	}
 
 
 }
+@media screen and (max-width: 900px){
+	
+	.nav-header{
+		padding: 1rem 2rem;
+	}
+	
+	.nav-header li a{
+		font-size: 1rem;
+
+	}
+	.main-sec-home h1{
+		font-size: 4rem;
+		padding-top: 2rem;
+		margin-bottom: 0;
+	}
+	.main-sec-home p{
+		font-size: 1rem;
+		text-align: center;
+} 
+	
+
 
 	
 	
