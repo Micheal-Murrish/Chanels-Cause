@@ -15,6 +15,7 @@ body{
 
 img{
 	vertical-align: bottom;
+	width: 90%;
 
 }
 
@@ -97,6 +98,7 @@ nav {
 
 .main-sec-video video{
 	border-radius: 20px;
+	max-width: 80%;
 }
 
 .second-sec-home{
@@ -191,4 +193,28 @@ footer{
 	color: black;
 }
 /*........................................... media queries */
+
+@media screen and (max-width: 1200px){
+	.main-sec-home h1{
+		color: #ca041a;
+		font-family: "Dancing Script", sans-serif;
+		font-weight: lighter;
+		font-size: 4rem;
+		padding-top: 2rem;
+		margin-bottom: 0;
+	}
+	.main-sec-home p{
+		font-size: 1.5rem;
+		padding: 1rem 2rem;
+		text-align: center;
+	
+	}
+
+
+}
+
+	
+	
+	
+
 
