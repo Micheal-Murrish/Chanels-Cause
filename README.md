@@ -50,5 +50,17 @@ Two videos where used in this project,
 * Christmas Campaign [view](https://github.com/Micheal-Murrish/Chanels-Cause/blob/main/Wireframes/Wireframe-cc-desktop.png)
 * Heart Family Group [view](https://github.com/Micheal-Murrish/Chanels-Cause/blob/main/Wireframes/Wireframe-hfg-desktop.png)
 * Contact [view](https://github.com/Micheal-Murrish/Chanels-Cause/blob/main/Wireframes/Wireframe-contact-desktop.png)
+#### Mobile Wireframe
+* Mobile Version [view](https://github.com/Micheal-Murrish/Chanels-Cause/blob/main/Wireframes/Wireframe%20mobile.png)
+#### Tablet Wireframe
+* Tablet Version [view](https://github.com/Micheal-Murrish/Chanels-Cause/blob/main/Wireframes/Wireframe%20Tablet.png)
 
 # Features
+* Internal links navagating threw the website for a easy user experience
+* External links opening in a new and navagating to the exact requested address
+* Hover affects to show what link you are picking and also what page you are on currently
+* Responsive on all devices
+
+# Languages Used
+1. [HTML5](https://en.wikipedia.org/wiki/HTML5)
+2. [CSS3](https://en.wikipedia.org/wiki/CSS)
