@@ -16,6 +16,7 @@ body{
 img{
 	vertical-align: bottom;
 	width: 90%;
+	
 
 
 
@@ -199,10 +200,7 @@ footer{
 @media screen and (max-width: 1200px){
 	.main-sec-home p{
 		padding: 1rem 2rem;
-	
 	}
-
-
 }
 
 @media screen and (max-width: 900px){
@@ -225,12 +223,24 @@ footer{
 	}
 } 
 @media screen and (max-width: 600px){
+	nav{
+		margin-bottom: -1rem;
+	}
+	
 	.nav-header{
-		display: block;
-		list-style-type: none;
-		margin: 0;
-		padding: 1rem 1rem;
+		padding: 0.5rem 1rem;
+	}
+	.nav-header li a {
+		font-size: 0.75rem;
+	}
+	.main-sec-home h1{
+		font-size: 2rem;
+		padding-top: 5px;
+	}
+	.main-sec-home p{
+		font-size: 1rem;
 		text-align: center;
+		padding-top: 0;
 	}
 
 }
