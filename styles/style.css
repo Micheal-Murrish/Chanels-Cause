@@ -17,6 +17,8 @@ img{
 	vertical-align: bottom;
 	width: 90%;
 
+
+
 }
 
 nav {
@@ -202,8 +204,8 @@ footer{
 
 
 }
+
 @media screen and (max-width: 900px){
-	
 	.nav-header{
 		padding: 1rem 2rem;
 	}
@@ -220,7 +222,18 @@ footer{
 	.main-sec-home p{
 		font-size: 1rem;
 		text-align: center;
+	}
 } 
+@media screen and (max-width: 600px){
+	.nav-header{
+		display: block;
+		list-style-type: none;
+		margin: 0;
+		padding: 1rem 1rem;
+		text-align: center;
+	}
+
+}
 	
 
 
