@@ -218,20 +218,27 @@ footer{
 		margin-bottom: 0;
 	}
 	.main-sec-home p{
-		font-size: 1rem;
+		font-size: 1.25rem;
 		text-align: center;
 	}
 } 
 @media screen and (max-width: 600px){
+	.chanel-logo{
+		padding-right: 20px;
+		position: relative;
+	}
+	
 	nav{
 		margin-bottom: -1rem;
 	}
 	
 	.nav-header{
+		display: block;
+		text-align: center;
 		padding: 0.5rem 1rem;
 	}
 	.nav-header li a {
-		font-size: 0.75rem;
+		font-size: 1rem;
 	}
 	.main-sec-home h1{
 		font-size: 2rem;
@@ -242,6 +249,35 @@ footer{
 		text-align: center;
 		padding-top: 0;
 	}
+	.footer-center i {
+		font-size: 1.5rem;
+	}
+	#banner-img{
+	
+		animation-name: none;
+		animation-duration: none;
+		animation-fill-mode: none;
+	}
+	.contact-form h2 {
+		font-size: 2rem;
+	}
+	.contact-form label{
+		font-size: 1rem;
+	}
+	#fname{
+		width: 200px;
+
+	}
+	#email{
+		width: 200px;
+	}
+	#textarea{
+		width:200px;
+	}
+	#form-button{
+		font-size: 2em;
+	}
+
 
 }
 	
