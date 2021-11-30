@@ -16,10 +16,6 @@ body{
 img{
 	vertical-align: bottom;
 	width: 90%;
-	
-
-
-
 }
 
 nav {
@@ -152,6 +148,12 @@ footer{
 	background-color: #e8dac7;
 	border-radius: 20px;
 	text-align: center;
+
+}
+.contact-form p {
+	font-size: 1.5rem;
+	text-align: center;
+	padding-bottom: 10px;
 
 }
 .contact-form h2 {
