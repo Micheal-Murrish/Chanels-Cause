@@ -16,6 +16,7 @@ body{
 img{
 	vertical-align: bottom;
 	width: 90%;
+	height: auto;
 }
 
 nav {
@@ -227,7 +228,9 @@ footer{
 @media screen and (max-width: 600px){
 	.chanel-logo{
 		padding-right: 20px;
-		position: relative;
+	}
+	img{
+		min-height: 100px;
 	}
 	
 	nav{
