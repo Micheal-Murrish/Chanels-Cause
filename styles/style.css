@@ -333,6 +333,9 @@ footer{
 	#form-button{
 		font-size: 2em;
 	}
+	.img-grid div {
+		width: 40%;
+	}
 
 
 }
