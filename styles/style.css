@@ -45,11 +45,12 @@ nav {
 
 
 .nav-header li a:hover {
-	color: black;
+	font-size: 150%;
+
 }
 
 .nav-header .current-page{
-	color: black;
+	text-decoration: underline #fafafa 2px solid;
 }
 
 
@@ -117,7 +118,8 @@ nav {
 	text-decoration: none;
 }
 #hfg-video-text{
-	font-size: 1rem;
+	font-size: .75rem;
+	padding-bottom: 20px;
 }
 
 
@@ -192,8 +194,22 @@ footer{
 }
 
 .footer-center i:hover {
-	color: black;
+	transform: scale(1.5);
 }
+.donate-btn{
+	border-radius: 20px;
+	color: #fafafa;
+	font-size: 1.5rem;
+	background-color: #ca041a;
+	border: solid 2px #fafafa;
+}
+.donate-btn:hover{
+	transform: scale(1.5);
+	background-color: #fafafa;
+	color: #ca041a;
+
+}
+
 
 /* .................................contact form */
  .contact-form{
@@ -205,7 +221,7 @@ footer{
 .contact-form p {
 	font-size: 1.5rem;
 	text-align: center;
-	padding-bottom: 10px;
+	padding-bottom: 30px;
 
 }
 .contact-form h2 {
@@ -305,8 +321,11 @@ footer{
 		text-align: center;
 		padding-top: 0;
 	}
+	.footer-center{
+		padding: 1rem 2rem;
+	}
 	.footer-center i {
-		font-size: 1.5rem;
+		font-size: 1.75rem;
 	}
 	#banner-img{
 	
