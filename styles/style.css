@@ -40,12 +40,13 @@ nav {
 	text-decoration: none;
 	font-family: "Oxygen", sans-serif;
 	letter-spacing: 1px;
+	display: inline-block;
 
 }
 
 
 .nav-header li a:hover {
-	font-size: 150%;
+	transform: scale(1.5);
 
 }
 
