@@ -298,20 +298,20 @@ footer{
 		padding-right: 20px;
 	}
 	img{
-		min-height: 100px;
+		transform: scale(1.4);
 	}
 	
 	nav{
 		margin-bottom: -1rem;
+
 	}
 	
 	.nav-header{
-		display: block;
 		text-align: center;
-		padding: 0.5rem 1rem;
+		padding: 0.5rem .5rem;
 	}
 	.nav-header li a {
-		font-size: 1rem;
+		font-size: .75rem;
 	}
 	.main-sec-home h1{
 		font-size: 2rem;
@@ -360,6 +360,18 @@ footer{
 
 
 }
+@media screen and (max-width: 400px) {
+	.nav-header{
+		text-align: center;
+		padding: 0 5px 5px 5px;
+	}
+
+	.nav-header li a{
+		font-size: .5rem;
+
+	}
+}
+
 
 	
 
