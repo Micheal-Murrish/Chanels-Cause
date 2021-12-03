@@ -192,6 +192,7 @@ footer{
 .footer-center i {
 	color: #fafafa;
 	font-size: 2rem;
+	vertical-align: middle;
 }
 
 .footer-center i:hover {
@@ -356,6 +357,7 @@ footer{
 	}
 	.img-grid div {
 		width: 40%;
+		border: none;
 	}
 
 
