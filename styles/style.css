@@ -7,18 +7,15 @@ body{
 	font-family: "Oxygen", sans-serif;
 }
 /*..........................head nav bar */
-
 .chanel-logo {
 	padding-left: 2rem;
 	overflow: hidden;
 }
-
 img{
 	vertical-align: bottom;
 	width: 90%;
 	height: auto;
 }
-
 nav {
 	background-color: #ca041a;
 	padding: 1px;
@@ -32,8 +29,6 @@ nav {
 	margin: 0;
 	padding: 1rem 5rem;
 }
-
-
 .nav-header li a {
 	color: #fafafa;
 	font-size: 1.25rem;
@@ -43,28 +38,20 @@ nav {
 	display: inline-block;
 
 }
-
-
 .nav-header li a:hover {
 	transform: scale(1.5);
 
 }
-
 .nav-header .current-page{
 	text-decoration: underline #fafafa 2px solid;
 }
-
-
 /* .................................banner image */
-
 #banner-img{
 	
 	animation-name: zoom-in;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
-
-
 @keyframes zoom-in {
     from{
         transform: scale(1);
@@ -74,15 +61,11 @@ nav {
     }
 }
 /* .................................Main section home*/
-
-
 .main-sec-home{
 	text-align: center;
 	background-color: #e8dac7;
 	border-radius: 20px;
-
 }
-
 .main-sec-home h1{
 	color: #ca041a;
 	font-family: "Dancing Script", sans-serif;
@@ -97,12 +80,10 @@ nav {
 	text-align: center;
 
 }
-
 .main-sec-video video{
 	border-radius: 20px;
 	max-width: 80%;
 }
-
 .second-sec-home{
 	background-color: #e8dac7;
 	margin-top: 1rem;
@@ -122,10 +103,7 @@ nav {
 	font-size: .75rem;
 	padding-bottom: 20px;
 }
-
-
 /* .................................img grid for christmas campain page */
-
 .img-grid div {
 	width: 25%;
 	height: auto;
@@ -134,11 +112,12 @@ nav {
 	border: #ca041a solid 1px;
 	vertical-align: middle;
 	margin: 5px;
-
+	border-radius: 15px;
 }
 .img-grid img{
 	width: 100%;
 	height: 100%;
+	border-radius: 15px;
 }
 .image-1:hover {
 	transform: scale(1.3);
@@ -170,14 +149,8 @@ nav {
 
 }.image-8:hover {
 	transform: scale(1.3);
-
 }
-
-
-
 /* .................................footer */
-
-
 footer{
 	background-color: #ca041a;
 	border-radius: 20px;
@@ -194,7 +167,6 @@ footer{
 	font-size: 2rem;
 	vertical-align: middle;
 }
-
 .footer-center i:hover {
 	transform: scale(1.5);
 }
@@ -214,8 +186,6 @@ footer{
 	color: #ca041a;
 
 }
-
-
 /* .................................contact form */
  .contact-form{
 	background-color: #e8dac7;
@@ -271,7 +241,6 @@ footer{
 	color: black;
 }
 /*........................................... media queries */
-
 @media screen and (max-width: 1200px){
 	.main-sec-home p{
 		padding: 1rem 2rem;
@@ -332,9 +301,13 @@ footer{
 	.footer-center i {
 		font-size: 1.75rem;
 	}
+	.donate-btn:hover{
+		transform: scale(1.1);
+	}
+	
 	#banner-img{
 	
-	animation: none;
+		animation: none;
 	}
 	.contact-form h2 {
 		font-size: 2rem;
@@ -358,9 +331,6 @@ footer{
 	.img-grid div{
 		width: 40%;
 	}
-
-
-
 }
 @media screen and (max-width: 400px) {
 	.nav-header{
