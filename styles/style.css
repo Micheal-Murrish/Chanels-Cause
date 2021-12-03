@@ -204,6 +204,9 @@ footer{
 	font-size: 1.5rem;
 	background-color: #ca041a;
 	border: solid 2px #fafafa;
+	padding: 0 5px;
+	display: inline-block;
+	text-decoration: none;
 }
 .donate-btn:hover{
 	transform: scale(1.5);
