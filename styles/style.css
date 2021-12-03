@@ -299,7 +299,7 @@ footer{
 		padding-right: 20px;
 	}
 	img{
-		transform: scale(1.2s);
+		transform: scale(1.2);
 		margin-top: 20px;
 	}
 	
@@ -332,9 +332,7 @@ footer{
 	}
 	#banner-img{
 	
-		animation-name: none;
-		animation-duration: none;
-		animation-fill-mode: none;
+	animation: none;
 	}
 	.contact-form h2 {
 		font-size: 2rem;
