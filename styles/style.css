@@ -301,8 +301,7 @@ footer{
 	.chanel-logo{
 		padding-right: 20px;
 	}
-	img{
-		transform: scale(1.2);
+	.chanel-logo{
 		margin-top: 20px;
 	}
 	
@@ -356,9 +355,8 @@ footer{
 	#form-button{
 		font-size: 2em;
 	}
-	.img-grid div {
+	.img-grid div{
 		width: 40%;
-		border: none;
 	}
 
 
