@@ -42,6 +42,10 @@ Two videos where used in this project,
 2. Heart Family Group page video is collaboration from Heart Family Group members to show support to each other.
 
 ## Images
+1. Banner
+    * Banner was created in photoshop.
+2. Images
+    * All 9 images on the Christmas Campaign where too from mobile devices and are all my own.
 
 ## Wire frames
 #### Desktop wire frames
@@ -63,3 +67,36 @@ Two videos where used in this project,
 # Languages Used
 1. [HTML5](https://en.wikipedia.org/wiki/HTML5).
 2. [CSS3](https://en.wikipedia.org/wiki/CSS).
+
+# Programs and Libraries Used
+1. [Gitpod](https://www.gitpod.io/)
+    * GitPod was the workspace used to write all the code.
+2. [GitHub](https://github.com/)
+    * GitPod was used to add/commit/push my code onto, to keep a hard save/backup.
+3. [Google fonts](https://fonts.google.com/)
+    * Google Fonts is where i got the fonts "Oxygen" for the main text and "Dancing Script" for headers.
+4. [Font Awesome](https://fontawesome.com/)
+    * Font Awesome ws used to get the icons for all the social media in the footer.
+5. [Balsamiq](https://balsamiq.com/)
+    * Balsamiq was used for the wireframes.
+6. [Adobe Photoshop](https://www.adobe.com/uk/)
+    * Photoshop was used to create the banner, with the text on the right and the logo on the left.
+
+# External Website References
+1. [Wikipedia](https://en.wikipedia.org/wiki/Hypoplastic_left_heart_syndrome)
+    * Wikipedia was used to access more infomtion on the Word Hypoplastic Left Hear Syndrome.
+2. [Guinness World Records](https://www.guinnessworldrecords.com/news/2015/6/1-minute-old-baby-is-youngest-open-heart-surgery-patient-ever-385925)
+    * Guinnes World Records was used to in a link to take you to Chanels Record page.
+3. [CHUF](https://www.chuf.org.uk/about/heart-heroes/)
+    * CHUF (childrens heart unit freemans hospital) was used because they have done alot of work for and with Chanel.
+4. [British Heart Foundation](https://www.bhf.org.uk/)
+    * British Heart Foundation was used because they ahve done alot of work for and with Chanel.
+5. [Facebook](https://en-gb.facebook.com/)
+    * Social media Platform
+6. [Twitter](https://twitter.com/?lang=en)
+    * Social media Platform    
+7. [Instagram](https://www.instagram.com/)
+    * Social media Platform
+8. [GoFundMe](https://www.gofundme.com/)
+    * GoFundMe is a platform to collect donations and is linked to the Donate link on the footer.
+# Testing   
