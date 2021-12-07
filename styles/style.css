@@ -102,6 +102,9 @@ nav {
 	color: #ca041a;
 	text-decoration: none;
 }
+.link-in-text:hover{
+	border-bottom: 1px solid #ca041a;
+}
 #hfg-video-text{
 	font-size: .75rem;
 	padding-bottom: 20px;
