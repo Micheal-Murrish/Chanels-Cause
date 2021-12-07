@@ -1,6 +1,6 @@
 # CHANELS CAUSE WEBSITE
 Chanel’s Cause is a none for profit aiming to raise awareness and funds for children affected by Congenital Heart Defects. In addition, they have a support group called Heart Family Group and fund raise annually for their Christmas Campaign, taking gifts into Children’s Hospital wards on Christmas Eve.
-# UX
+# User Experience (UX)
 ## Project Goals
 The project goals are to create a website that can be used to:
 * Spread Awareness on CHD (Congenital Heart Defects).
@@ -107,3 +107,15 @@ Two videos where used in this project,
 * The website was tested in Google Crome and Microsoft Edge.
 * The website has been tested on desktop, laptop, ipad and mobile devices.
 * All links have been tested to ensure they direct the user to the correct place.
+## User Experience Testing
+### First Time Visitor
+1. Easily navigate threw the site and to all the external links.
+    * All links have a hover effect put on them and alos a change in the cursor to indicate a clickable link.
+2. Find it easy to understand what the website is all about.
+    * The website has links to external information sorces, and lots of internal iformation on what the website is about and what Chanels Cause actualy does.
+### Returning Visitor
+1. Find and access the support group and any fundraising activities are coming up.
+    * The site has links to The Heart Family Group where people will be directed to and be able to sign up.
+2. Be able to get in contact.
+    * There is a contact me form.
+
