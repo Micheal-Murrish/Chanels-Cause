@@ -100,3 +100,10 @@ Two videos where used in this project,
 8. [GoFundMe](https://www.gofundme.com/)
     * GoFundMe is a platform to collect donations and is linked to the Donate link on the footer.
 # Testing   
+### HTML AND CSS Testing.
+1. [W3C Markup Validator](https://validator.w3.org/) for the HTML
+2. [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) for the CSS.
+### Website testing
+* The website was tested in Google Crome and Microsoft Edge.
+* The website has been tested on desktop, laptop, ipad and mobile devices.
+* All links have been tested to ensure they direct the user to the correct place.
