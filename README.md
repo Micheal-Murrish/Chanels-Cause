@@ -141,7 +141,9 @@ Mobile
 
 ## Known bugs/issues
 
-Nav bar and banner image shrink with screen size making it look two small on mobile devices.
+1. Nav bar and banner image shrink with screen size making it look two small on mobile devices.
+2. My mentor pointed out my git commit messages where not good enough, i understand now and will make them more specific in the future
+
 
 ## Problems I could not solve
 1. Tried to add a sticky nav bar so you could access the nav without scrolling up the page.
