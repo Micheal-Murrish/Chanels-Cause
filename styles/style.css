@@ -48,7 +48,7 @@ nav {
 	
 }
 /* .................................banner image */
-#banner-img{
+.banner-img{
 	
 	animation-name: zoom-in;
     animation-duration: 5s;
