@@ -62,7 +62,13 @@ Two videos where used in this project,
 * Internal links navigating threw the website for a easy user experience.
 * External links opening in a new and navigating to the exact requested address.
 * Hover affects to show what link you are picking and also what page you are on currently.
-* Responsive on all devices
+* Responsive on all devices.
+* Contact form.
+* Two videos.
+    1. Video on home page explaining Chanels Cause
+    2. Video on Heart Family Group Page was a collaboration from members of the group. 
+* Images used from over the years to showcase the work we do.
+
 
 # Languages Used
 1. [HTML5](https://en.wikipedia.org/wiki/HTML5).
@@ -103,11 +109,25 @@ Two videos where used in this project,
 ### HTML AND CSS Testing.
 1. [W3C Markup Validator](https://validator.w3.org/) for the HTML
 2. [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) for the CSS.
+
+All issues foud where fixed apart from on the CSS, i was getting this error message"Imported style sheets are not checked in direct input and file upload modes" and upon investigation i found it to be that W3C just wont validate the imported style sheets.
 ### Website testing
 * The website was tested in Google Crome and Microsoft Edge.
 * The website has been tested on desktop, laptop, ipad and mobile devices.
 * All links have been tested to ensure they direct the user to the correct place.
+### Lighthouse Test
+I also used Lighthouse Testing in Dev Tools on chrome and these where the results for Desktop and Mobile.
+
+Desktop
+
+![](assets/desktop-prof.png)
+
+Mobile
+
+![](assets/mobile-prof.png)
+
 ## User Experience Testing
+
 ### First Time Visitor
 1. Easily navigate threw the site and to all the external links.
     * All links have a hover effect put on them and alos a change in the cursor to indicate a clickable link.
@@ -118,4 +138,46 @@ Two videos where used in this project,
     * The site has links to The Heart Family Group where people will be directed to and be able to sign up.
 2. Be able to get in contact.
     * There is a contact me form.
+
+## Known bugs/issues
+
+Nav bar and banner image shrink with screen size making it look two small on mobile devices.
+
+## Problems I could not solve
+1. Tried to add a sticky nav bar so you could access the nav without scrolling up the page.
+    * For some reason it just never worked, i tried stack overflow and also watched Youtube videos on the subject but still got no further forward.
+2. Tried to add a hamburger menu for mobile platform for the nav bar
+    * My mentor showed me a way to implement a hamburger menu for mobile devices, ws a very good idea and something i will add later, but i could not get it to look nice on my site, maybe after the JavaScript side of the course it will make more sence.
+
+# Deployment
+
+## GitHub Pages
+
+Chanels Cause Website was deployed to GitHub pages using the following steps.
+1. Log into GitHub and navagate to Your Repositories and Choose [Chanels-Cause](https://github.com/Micheal-Murrish/Chanels-Cause)
+2. Navigate to Settings then down to Pages.
+3. Find Source and select Main-Branch
+4. The page will automatically refresh
+5. Scroll back down the page and it will display published your site [https://micheal-murrish.github.io/Chanels-Cause/index.html](https://micheal-murrish.github.io/Chanels-Cause/index.html)
+
+# Credits
+## Code
+
+* Suzybee_lead suggested background shadows for all the 9 images on the Christmas Campaign page and i copied and pasted the box-shadows refrence she suggested and it looked very good so I kept it in.
+
+![](assets/box-shadows.png)
+
+* Going back threw all the content I had done with Code Institute was huge help in re-joggimg my memory for most small issues i was having.
+## Content and Media
+* All content was written by the Developer.
+* All images are owned by the Developer.
+* All videos are owned by the Developer
+## Acknowledgements
+* Tutor and Student Support is amazing and everyone is always willing to help.
+* My Mentor worked very hard in helping understand the process alot better.
+
+
+
+
+
 
