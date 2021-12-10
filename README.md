@@ -162,6 +162,14 @@ Chanels Cause Website was deployed to GitHub pages using the following steps.
 4. The page will automatically refresh
 5. Scroll back down the page and it will display published your site [https://micheal-murrish.github.io/Chanels-Cause/index.html](https://micheal-murrish.github.io/Chanels-Cause/index.html)
 
+## GitHub Forking
+1. Log in to GitHub and locate [Chanels-Cause](https://github.com/Micheal-Murrish/Chanels-Cause)
+2. Locate the Fork button in the top right and that should add the repository to your GitHub account.
+
+## Download Files
+1. Log in to GitHub and locate [Chanels-Cause](https://github.com/Micheal-Murrish/Chanels-Cause)
+2. Find the Code Buton and select the Download Zip from the menu.
+
 # Credits
 ## Code
 
